@@ -1,0 +1,17 @@
+[
+    {
+        "username": "user1",
+        "password": "1",
+        "todoList": []
+    },
+    {
+        "username": "user2",
+        "password": "2",
+        "todoList": []
+    },
+    {
+        "username": "user3",
+        "password": "3",
+        "todoList": []
+    }
+]
