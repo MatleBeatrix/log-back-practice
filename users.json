@@ -2,16 +2,36 @@
     {
         "username": "user1",
         "password": "1",
-        "todoList": []
+        "todoList": [
+            "buy food",
+            "note",
+            "cook",
+            "read"
+        ]
     },
     {
         "username": "user2",
         "password": "2",
-        "todoList": []
+        "todoList": [
+            "buy ticket"
+        ]
     },
     {
         "username": "user3",
         "password": "3",
+        "todoList": [
+            "ok",
+            "ok2"
+        ]
+    },
+    {
+        "username": "user4",
+        "password": "4",
+        "todoList": []
+    },
+    {
+        "username": "testuser",
+        "password": "test",
         "todoList": []
     }
 ]
